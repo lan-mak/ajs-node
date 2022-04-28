@@ -1,0 +1,22 @@
+{
+  "name": "ajs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lan-mak/ajs-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lan-mak/ajs-node/issues"
+  },
+  "homepage": "https://github.com/lan-mak/ajs-node#readme",
+  "dependencies": {
+    "@lan-mak/ajs-m": "^1.0.0"
+  }
+}
